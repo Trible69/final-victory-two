@@ -6,6 +6,10 @@ state={
 		set_demilitarized_zone = yes
 		buildings = {
 			infrastructure = 3
+			7480 = {
+				naval_base = 3
+
+			}
 		}
 		victory_points = {
 			7480 5
