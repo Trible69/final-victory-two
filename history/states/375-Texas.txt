@@ -26,6 +26,7 @@ state={
 				naval_base = 1
 			}
 		}
+		set_demilitarized_zone = yes
 		add_core_of = MEX
 		victory_points = {
 			10337 10

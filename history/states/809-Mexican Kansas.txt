@@ -2,6 +2,7 @@ state={
 	id=809
 	name="STATE_809"
 	history = {
+		set_demilitarized_zone = yes
 		owner = MEX
 		add_core_of = MEX
 	}

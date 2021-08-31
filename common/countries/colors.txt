@@ -9,8 +9,8 @@ ENG = {
 	color_ui = rgb { 255 73 121 }
 }
 SOV = {
-	color = rgb { 125 13 24 }
-	color_ui = rgb { 163 17 31 }
+	color = rgb { 0 121 0 }
+	color_ui = rgb { 0 121 0 }
 }
 SWE = {
 	color = rgb { 36 132 247 }
@@ -702,4 +702,8 @@ WUR = {
 SHL = {
 	color = rgb { 51 51 255 }
 	color_ui = rgb { 51 51 255 }
+}
+QUE = {
+	color = rgb { 222 255 253 }
+	color_ui = rgb { 222 255 253 }
 }

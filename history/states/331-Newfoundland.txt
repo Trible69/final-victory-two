@@ -7,7 +7,8 @@ state={
 	state_category = rural
 
 	history={
-		owner = ENG
+		owner = QUE
+		add_core_of = QUE
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

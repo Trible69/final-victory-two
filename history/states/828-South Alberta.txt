@@ -1,0 +1,19 @@
+state={
+	id=828
+	name="STATE_828"
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 2 
+
+		}
+		add_core_of = USA
+
+	}
+	provinces={
+		7718 
+	}
+	manpower=3244
+	buildings_max_level_factor=1.000
+	state_category = rural
+}
