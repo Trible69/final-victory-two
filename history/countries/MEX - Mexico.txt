@@ -1,4 +1,4 @@
-﻿capital = 827
+﻿capital = 277
 
 #oob = ""
 
@@ -17,7 +17,7 @@ set_technology = {
 	naval_bomber1 = 1
 }
 
-set_convoys = 150 
+set_convoys = 25 
 set_politics = {
 	ruling_party = monarchism
 	last_election = "1821.1.1"
@@ -25,22 +25,22 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	social_democracy = 10
-	liberalism = 10
+	social_democracy = 4
+	liberalism = 5
 	conservatism = 10
-	authoritarian_socialism = 0
-	democratic_socialism = 0
-	national_populism = 0
-	monarchism = 51
-	authoritarianism = 0
-	authoritarian_democracy = 19
+	authoritarian_socialism = 4
+	democratic_socialism = 4
+	national_populism = 3
+	monarchism = 44
+	authoritarianism = 26
+	authoritarian_democracy = 0
 	parental_autocracy = 0
 }
 
 create_country_leader = {
-	name = "Jean Pierre Clément Marie"
+	name = "María Josepha Sophia"
 	desc = ""
-	picture = "QUEJean.dds"
+	picture = "MEXMariaSophia.dds"
 	expire = "1965.1.1"
-	ideology = semi_constitutionalism 
+	ideology = absolute_monarchism 
 }

@@ -1,4 +1,4 @@
-﻿capital = 827
+﻿capital = 473
 
 #oob = ""
 
@@ -19,28 +19,28 @@ set_technology = {
 
 set_convoys = 150 
 set_politics = {
-	ruling_party = monarchism
+	ruling_party = conservatism
 	last_election = "1821.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	social_democracy = 10
-	liberalism = 10
-	conservatism = 10
+	social_democracy = 24
+	liberalism = 29
+	conservatism = 31
 	authoritarian_socialism = 0
 	democratic_socialism = 0
 	national_populism = 0
-	monarchism = 51
+	monarchism = 6
 	authoritarianism = 0
-	authoritarian_democracy = 19
+	authoritarian_democracy = 10
 	parental_autocracy = 0
 }
 
 create_country_leader = {
-	name = "Jean Pierre Clément Marie"
+	name = "Roland H. Hartley"
 	desc = ""
-	picture = "QUEJean.dds"
+	picture = "CANRonaldHartley.dds"
 	expire = "1965.1.1"
-	ideology = semi_constitutionalism 
+	ideology = social_conservative 
 }
