@@ -275,7 +275,7 @@ ideologies = {
 		
 			ultranationalism={
 			}
-			national_populism={
+			national_populism_sub={
 			}
 			revanchism={
 			}

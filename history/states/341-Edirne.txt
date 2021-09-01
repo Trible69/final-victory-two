@@ -2,10 +2,7 @@
 state= {
 	id=341
 	name="STATE_341"
-	manpower = 363947
-	resources={
-
-	}
+	manpower = 363947 
 	
 	state_category = town
 
@@ -22,18 +19,7 @@ state= {
 				coastal_bunker = 2
 			}
 		}
-		add_core_of = TUR
-
-		1936.1.1.1 = { 
-			if = {
-				limit = { has_dlc = "Battle for the Bosporus" }
-				set_demilitarized_zone = yes
-			}
-		}
-		
-		1936.11.9.1 = {
-			set_demilitarized_zone = no
-		}
+		add_core_of = TUR 
 	}
 	provinces=
 	{
