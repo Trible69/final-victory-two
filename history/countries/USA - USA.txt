@@ -26,14 +26,14 @@ set_politics = {
 }
 set_popularities = {
 	social_democracy = 21
-	liberalism = 19
-	conservatism = 14
+	liberalism = 15
+	conservatism = 8
 	authoritarian_socialism = 15
 	democratic_socialism = 11
 	national_populism = 20
 	monarchism = 0
-	authoritarianism = 0
-	authoritarian_democracy = 0
+	authoritarianism = 4
+	authoritarian_democracy = 6
 	parental_autocracy = 0
 }
 
