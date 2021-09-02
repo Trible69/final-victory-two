@@ -5,6 +5,9 @@ state={
 		owner = HAN
 		add_core_of = HAN
 		add_core_of = GER
+		victory_points = {
+			3522 5 
+		}
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 2
