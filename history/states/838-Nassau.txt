@@ -1,0 +1,20 @@
+state={
+	id=838
+	name="STATE_838"
+	history = {
+		owner = NAS
+		add_core_of = NAS
+		add_core_of = GER
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+		}
+	}
+	provinces={
+		529 6444 9486 
+	}
+	manpower=54433
+	buildings_max_level_factor=1.000
+	state_category = city
+}

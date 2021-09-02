@@ -1,0 +1,20 @@
+state={
+	id=841
+	name="STATE_841"
+	history = {
+		owner = BAY
+		add_core_of = BAY
+		add_core_of = GER
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 2
+		}
+	}
+	provinces={
+		561 9416 11404 11529 11544 
+	}
+	manpower=78490
+	buildings_max_level_factor=1.000
+	state_category = rural
+}
