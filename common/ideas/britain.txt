@@ -1,0 +1,83 @@
+ideas = {
+
+	country = {
+		ENG_George_V = {
+			
+			allowed = {
+				original_tag = ENG
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = 0.05
+			}
+			
+
+		} 
+		ENG_Unpopular_Military_Dictatorship = {
+			
+			allowed = {
+				original_tag = ENG
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.20
+				war_support_factor = -0.50
+				occupation_cost = 0.5
+				compliance_growth_on_our_occupied_states = 0.5
+				required_garrison_factor = 0.5
+				resistance_damage_to_garrison_on_our_occupied_states = -0.5
+				resistance_target_on_our_occupied_states = -0.5
+				resistance_growth_on_our_occupied_states = -0.5
+				monarchism_drift = 0.05
+				liberalism_drift = 0.05
+				conservatism_drift = 0.05
+				social_democracy_drift = 0.05
+				authoritarian_democracy_drift = 0.05
+			}
+			
+
+		} 
+		ENG_Paranoid_Government = {
+			
+			allowed = {
+				original_tag = ENG
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.15
+				authoritarian_socialism_drift = -0.10
+				democratic_socialism_drift = -0.10
+				conscription_factor = -0.5
+				political_power_gain = -1.0
+			}
+			
+
+		} 
+
+	}
+	
+	
+	political_advisor = {
+
+	} 
+
+}
+

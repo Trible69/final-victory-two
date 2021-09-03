@@ -4,8 +4,8 @@
 
 set_research_slots = 4
 
-set_stability = 0.4
-set_war_support = 0.1
+set_stability = 0.1
+set_war_support = 0.0
 
 # Starting tech
 set_technology = {
@@ -43,6 +43,11 @@ set_convoys = 800
 
 puppet = CAN
 
+add_ideas = {
+	ENG_George_V
+	ENG_Unpopular_Military_Dictatorship
+	ENG_Paranoid_Government
+}
 
 set_politics = {
 	ruling_party = parental_autocracy
