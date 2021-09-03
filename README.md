@@ -1,2 +1,3 @@
 # final-victory-two
-fuck hubba
+I want hubba inside of me
+-Trible
