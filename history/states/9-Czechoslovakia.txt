@@ -3,13 +3,13 @@ state={
 	name="STATE_9"
 	manpower = 4492600
 	resources={
-		steel=5 # was: 8 hi
+		steel=5 # was: 8
 	}
 	
 	state_category = large_city
 	
 	history={
-		owner = AUS
+		owner = CZE
 		victory_points = { 11542 30 }
 		victory_points = { 6418 5 }
 		victory_points = { 9569 5 }
@@ -21,7 +21,12 @@ state={
 			anti_air_building = 5
 			air_base = 5
 		}
-		add_core_of = AUS
+		add_core_of = CZE
+
+		1939.3.14 = {
+			owner = GER
+			controller = GER
+		}
 	}
 
 	provinces={

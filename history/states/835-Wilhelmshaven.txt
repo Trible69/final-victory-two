@@ -1,0 +1,25 @@
+state={
+	id=835
+	name="STATE_835"
+	history = {
+		owner = HOL
+		add_core_of = HOL
+		add_core_of = GER
+		buildings = {
+			infrastructure = 3 
+			industrial_complex = 1
+		}
+		victory_points = {
+			241 5 
+		}
+		victory_points = {
+			11360 1 
+		}
+	}
+	provinces={
+		241 336 11360 
+	}
+	manpower=6543
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

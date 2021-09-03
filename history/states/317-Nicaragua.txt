@@ -9,6 +9,7 @@ state={
 
 	history={
 		owner = MEX
+		set_demilitarized_zone = yes
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1
@@ -21,6 +22,7 @@ state={
 
 		}
 		add_core_of = MEX
+		set_demilitarized_zone = yes
 		victory_points = {
 			12738 3
 		}

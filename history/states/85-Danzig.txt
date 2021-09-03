@@ -4,15 +4,9 @@ state={
 	name="STATE_85"
 
 	history={
-		owner = DAN
+		owner = PRE
 		victory_points = {
 			362 10 
-		}
-		victory_points = {
-			3295 5 
-		}
-		victory_points = {
-			279 1 
 		}
 		buildings = {
 			infrastructure = 6
@@ -26,14 +20,19 @@ state={
 			}
 
 		}
-		add_claim_by = PRS
-		add_core_of = DAN
+		add_core_of = PRE
+		add_core_of = GER
+		1938.3.12 = {
+			add_claim_by = GER
+
+		}
+
 	}
 
 	provinces={
-		362 
+		334 362 389 3324 9263 
 	}
-	manpower=366730
+	manpower=1080100
 	buildings_max_level_factor=1.000
 	state_category=city
 }

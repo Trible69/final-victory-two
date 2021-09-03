@@ -4,9 +4,12 @@ state={
 	name="STATE_429"
 	manpower = 17355600
 	state_category = town
+	
+	resources={
+		#tungsten=19 # was: 26
+	}
 
 	history={
-		add_core_of = RAJ
 		owner = RAJ
 		buildings = {
 			infrastructure = 4

@@ -11,9 +11,8 @@ state={
 	}
 
 	history={
-		owner = TGA 
-		add_core_of = TGA
-		add_core_of = SHO
+		owner = JAP
+		add_core_of = JAP
 		buildings = {
 		
 			arms_factory = 1

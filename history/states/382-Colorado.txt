@@ -10,19 +10,17 @@ state={
 	state_category = town
 
 	history={
-		owner = USA
+		set_demilitarized_zone = yes
+		owner = MEX
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 		}
-		add_core_of = USA
-		victory_points = {
-			1827 5 
-		}
+		add_core_of = MEX 
 
 	}
 
 	provinces={
-		1809 1827 3869 7780 10588 11772 12570 12642 
+		1738 6887 7684 7999 9792 10535 12627
 	}
 }

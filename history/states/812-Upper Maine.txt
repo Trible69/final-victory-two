@@ -1,0 +1,18 @@
+state={
+	id=812
+	name="STATE_812"
+	history = {
+		owner = QUE
+		add_core_of = USA
+		add_core_of = QUE
+		buildings = {
+			infrastructure = 5
+		}
+	}
+	provinces={
+		4287 10247 
+	}
+	manpower=54382
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

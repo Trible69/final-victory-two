@@ -1,0 +1,26 @@
+state={
+	id=827
+	name="STATE_827"
+	history = {
+		owner = QUE
+		add_core_of = QUE
+		add_core_of = CAN
+		buildings = {
+			infrastructure = 10
+			arms_factory = 3
+			12149 = {
+				naval_base = 6
+
+			}
+		}
+		victory_points = {
+			12149 50
+		}
+	}
+	provinces={
+		12149 
+	}
+	manpower=2352322
+	buildings_max_level_factor=1.000
+	state_category = large_city
+}

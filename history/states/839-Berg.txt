@@ -1,0 +1,23 @@
+state={
+	id=839
+	name="STATE_839"
+	history = {
+		owner = BER
+		add_core_of = BER
+		add_core_of = GER
+		buildings = {
+			infrastructure = 5
+			arms_factory = 5
+			industrial_complex = 10
+		}
+		victory_points = {
+			495 5 
+		}
+	}
+	provinces={
+		495 3398 6535 6622 9281 11233 11264 11346 
+	}
+	manpower=243244
+	buildings_max_level_factor=1.000
+	state_category = city
+}

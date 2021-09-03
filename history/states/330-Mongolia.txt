@@ -8,7 +8,6 @@ state={
 
 	history={
 		owner = MON
-		add_core_of = QIN
 		victory_points = {
 			4801 5 
 		}

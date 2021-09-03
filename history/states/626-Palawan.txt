@@ -8,7 +8,7 @@ state=
 	
 	history=
 	{
-		owner = CPH
+		owner = PHI
 		buildings = {
 			infrastructure = 3
 			4429 = {
@@ -16,7 +16,6 @@ state=
 			}
 		}
 		add_core_of = PHI
-		add_core_of = CPH
 	}
 	provinces={
 		4429 7419 10145 
