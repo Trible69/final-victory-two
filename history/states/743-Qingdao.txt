@@ -8,9 +8,9 @@ state=
 	
 	history=
 	{
-		owner = CHI
-		add_core_of = CHI
-		add_core_of = PRC
+		owner = NEM
+		add_core_of = QIN
+		add_core_of = NEM
 		victory_points = {
 			10000 5 
 		}
@@ -23,10 +23,6 @@ state=
 				coastal_bunker = 1
 				bunker = 1
 			}
-		}
-
-		1938.10.25 = {
-			controller = JAP
 		}
 	}
 	provinces={

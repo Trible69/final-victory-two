@@ -1,0 +1,24 @@
+state={
+	id=835
+	name="STATE_835"
+	history = {
+		owner = QUE
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 3
+		}
+		add_core_of = CAN
+		add_core_of = QUE
+		victory_points = {
+			4345 20 
+		}
+	}
+	provinces={
+		4345 7291 9601 
+	}
+	manpower=2432754
+	buildings_max_level_factor=1.000
+	state_category = "city"
+}

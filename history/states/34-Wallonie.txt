@@ -8,7 +8,6 @@ state={
 
 	history={
 		owner = FRA
-		add_core_of = FRA
 		victory_points = {
 			3516 5
 		}
@@ -24,7 +23,9 @@ state={
 			industrial_complex = 4
 			air_base = 1
 
-		} 
+		}
+		add_core_of = FRA
+		add_core_of = BEL
 	}
 
 	provinces={

@@ -1,0 +1,25 @@
+
+state={
+	id=839
+	name="STATE_839"
+
+	history={
+		owner = BUL
+		add_core_of = BUL
+		add_core_of = SER
+		buildings = {
+			arms_factory = 1
+			industrial_complex = 2
+			infrastructure = 4
+
+		}
+
+	}
+
+	provinces={
+		11832 11857 11868 
+	}
+	manpower=323132
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,20 @@
+state={
+	id=837
+	name="STATE_837"
+	history = {
+		owner = ROM 
+		add_core_of = ROM
+		add_core_of = BUL
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 2
+			infrastructure = 5
+		}
+	}
+	provinces={
+		657 687 3076 9635 
+	}
+	manpower=213423
+	buildings_max_level_factor=1.000
+	state_category = "city"
+}

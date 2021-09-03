@@ -1,0 +1,20 @@
+state={
+	id=851
+	name="STATE_851"
+	history = {
+		owner = RHU
+		add_core_of = RHU
+		add_core_of = HUN
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+		}
+	}
+	provinces={
+		713 746 3696 3709 9687 
+	}
+	manpower=322323
+	buildings_max_level_factor=1.000
+	state_category = "city"
+}

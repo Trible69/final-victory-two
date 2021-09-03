@@ -11,8 +11,9 @@ state={
 	}
 
 	history={
-		owner = JAP
-		add_core_of = JAP
+		owner = TGA
+		add_core_of = TGA 
+		add_core_of = SHO
 		buildings = {
 			infrastructure = 8
 			air_base = 6

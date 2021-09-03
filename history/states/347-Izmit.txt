@@ -5,7 +5,6 @@ state={
 	manpower = 807660
 	resources={
 		chromium=19 # was: 26
-		steel = 9
 	}
 	
 	state_category = rural
@@ -19,8 +18,7 @@ state={
 			904 1 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
+			infrastructure = 4
 			904 = {
 				naval_base = 2
 			}

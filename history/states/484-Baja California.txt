@@ -6,7 +6,6 @@ state = {
 	
 	history={
 		owner = MEX
-		set_demilitarized_zone = yes
 		buildings = {
 			infrastructure = 3
 			air_base = 3

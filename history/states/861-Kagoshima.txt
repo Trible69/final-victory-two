@@ -1,0 +1,19 @@
+state={
+	id=861
+	name="STATE_861"
+	history = {
+		owner = BET 
+		add_core_of = BET 
+		add_core_of = TGA 
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 2
+		}
+	}
+	provinces={
+		1183 4102 11949 12032 4198
+	}
+	manpower=599814 
+	buildings_max_level_factor=1.000
+}

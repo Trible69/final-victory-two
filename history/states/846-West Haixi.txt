@@ -1,0 +1,19 @@
+state={
+	id=846
+	history = {
+		owner = SIK
+		add_core_of = SIK 
+		add_core_of = QIN 
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+		}
+	}
+	name="STATE_845"
+	provinces={
+		10865 12890 
+	}
+	manpower=372323
+	buildings_max_level_factor=1.000
+}

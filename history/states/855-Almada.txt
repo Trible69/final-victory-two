@@ -1,0 +1,12 @@
+state={
+	id=855
+	name="STATE_855"
+	history = {
+		owner = POR
+	}
+	provinces={
+		970 
+	}
+	manpower=23432
+	buildings_max_level_factor=1.000
+}

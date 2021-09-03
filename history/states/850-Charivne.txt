@@ -1,0 +1,18 @@
+state={
+	id=850
+	name="STATE_850"
+	history = {
+		owner = UKR
+		add_core_of = UKR
+		add_core_of = RUS
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		11715 
+	}
+	manpower=32372
+	buildings_max_level_factor=1.000
+}

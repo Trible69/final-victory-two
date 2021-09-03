@@ -5,11 +5,9 @@ state={
 	manpower = 200000
 	
 	state_category = wasteland
-	resources={
-		# tungsten=49 # was: 54
-	}
 
 	history={
+		add_core_of = RAJ
 		owner = RAJ
 		buildings = {
 			infrastructure = 1

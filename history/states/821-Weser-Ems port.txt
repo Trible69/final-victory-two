@@ -1,0 +1,26 @@
+state={
+	id=821
+	name="STATE_821"
+	history = {
+		owner = OLD
+		add_core_of = OLD
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			dockyard = 2
+			fuel_silo = 1
+			241 = {
+				naval_base = 8
+
+			}
+			air_base = 3
+
+		}
+	}
+	provinces={
+		241 
+	}
+	manpower=23123
+	buildings_max_level_factor=1.000
+	state_category = "city"
+}

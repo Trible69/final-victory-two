@@ -1,0 +1,19 @@
+state={
+	id=842
+	name="STATE_842"
+	history = {
+		owner = LIT
+		add_core_of = LIT 
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		3366 3393 6340 6413 11391 
+	}
+	manpower=323232
+	buildings_max_level_factor=1.000
+	state_category = "city"
+}

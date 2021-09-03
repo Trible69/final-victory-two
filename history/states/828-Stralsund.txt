@@ -1,0 +1,19 @@
+state={
+	id=828
+	name="STATE_828"
+	history = {
+		owner = MEC 
+		add_core_of = PRS
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 2
+		}
+	}
+	provinces={
+		3340 9388
+	}
+	manpower=42312
+	buildings_max_level_factor=1.000
+	state_category = "city"
+}

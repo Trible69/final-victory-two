@@ -1,4 +1,3 @@
-
 state={
 	id=105
 	name="STATE_105"
@@ -9,9 +8,9 @@ state={
 
 	history={
 		victory_points = {
-			9809 3 
+			9809 3
 		}
-		owner = YUG
+		owner = MNT 
 		add_core_of = MNT
 		buildings = {
 			infrastructure = 3
@@ -22,7 +21,6 @@ state={
 			}
 
 		}
-		add_core_of = YUG
 
 	}
 
