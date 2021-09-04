@@ -1,4 +1,8 @@
 ﻿l_english:
+ ###Events 
+ UK_World_Building.1.t:0 "Britain's Starting Situation"
+ UK_World_Building.1.d:0 "These last few decades have been a dark age for Great Britain.\n\nWith the recent military coup in 1918, Great Britain has been in constant instability, and it seems that it is all about to collapse, the Military Government has next to no real popularity and is only able to continue existing through brutal suppression, but they can't get every area, the likes of the King, George the Fifth, has been the only one keeping the peace between the Liberals and Monarchists, and the Government, but he, like all men, is not immortal, has been ill these past few months, it's only a matter of time for him to leave this world, and for Britain to be left to its own devices."
+ UK_World_Building.1.a:0 "God Save the King"
  ###Ideas
  ENG_George_V:0 "King George V"
  ENG_George_V_desc:0 "The King is the only one keeping our enemies in check, we must let him live, for now."

@@ -1,0 +1,15 @@
+﻿add_namespace = UK_World_Building 
+
+# Starting Situation
+country_event = {
+	id = UK_World_Building.1
+	title = UK_World_Building.1.t
+	desc = UK_World_Building.1.d
+	picture = GFX_report_event_saf_coup
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = UK_World_Building.1.a
+	} 
+}
