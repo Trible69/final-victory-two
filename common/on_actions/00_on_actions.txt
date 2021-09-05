@@ -10,6 +10,7 @@ on_actions = {
 			}
 			ENG = {
 				country_event = { id = UK_World_Building.1 }
+				country_event = { id = UK_Civil_War_Buildup.1 days = 19 }
 			}
 		}	
 	}

@@ -1,0 +1,20 @@
+state={
+	id=846
+	name="STATE_846"
+	history = {
+		owner = ENG
+		add_core_of = ENG
+		add_core_of = WLS
+		buildings = {
+			infrastructure = 8
+			arms_factory = 3
+			industrial_complex = 3
+		}
+	}
+	provinces={
+		6363 9364 
+	}
+	manpower=309230
+	buildings_max_level_factor=1.000
+	state_category = large_city
+}

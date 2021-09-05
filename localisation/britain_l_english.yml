@@ -2,7 +2,12 @@
  ###Events 
  UK_World_Building.1.t:0 "Britain's Starting Situation"
  UK_World_Building.1.d:0 "These last few decades have been a dark age for Great Britain.\n\nWith the recent military coup in 1918, Great Britain has been in constant instability, and it seems that it is all about to collapse, the Military Government has next to no real popularity and is only able to continue existing through brutal suppression, but they can't get every area, the likes of the King, George the Fifth, has been the only one keeping the peace between the Liberals and Monarchists, and the Government, but he, like all men, is not immortal, has been ill these past few months, it's only a matter of time for him to leave this world, and for Britain to be left to its own devices."
- UK_World_Building.1.a:0 "God Save the King"
+ UK_World_Building.1.a:0 "God Save the King!"
+
+ UK_Civil_War_Buildup.1.t:0 "Death of the King"
+ UK_Civil_War_Buildup.1.d:0 "Perhaps the only thing that was holding the British State together is King George V. The unifier of Monarchists, Nationalists, and Republicans alike stabilized the country after the Long War and the military coup. This great man has died, peacefully in his sleep, surrounded by his family. As the civilians mourn his death, the government also mourns his death, albeit a different reason. Edward VIII has declared that he will lead the monarchist party, while Winston Churchill and Oswald Mosley both have declared a new era of the anti-nationalist coalition. The British Empire, which conquered continents, is at its knees. At its knees, not because of an enemy, but because of itself."
+ UK_Civil_War_Buildup.1.a:0 "No one can save Britain now."
+ 
  ###Ideas
  ENG_George_V:0 "King George V"
  ENG_George_V_desc:0 "The King is the only one keeping our enemies in check, we must let him live, for now."

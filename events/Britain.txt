@@ -1,4 +1,5 @@
 ﻿add_namespace = UK_World_Building 
+add_namespace = UK_Civil_War_Buildup
 
 # Starting Situation
 country_event = {
@@ -11,5 +12,36 @@ country_event = {
 	
 	option = {
 		name = UK_World_Building.1.a
+	} 
+}
+# Death of King George V
+country_event = {
+	id = UK_Civil_War_Buildup.1
+	title = UK_Civil_War_Buildup.1.t
+	desc = UK_Civil_War_Buildup.1.d
+	picture = GFX_report_event_europe_funeral
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = UK_Civil_War_Buildup.1.a
+		remove_ideas = ENG_George_V
+		add_popularity = {
+			ideology = monarchism
+			popularity = 0.2
+		}
+		add_popularity = {
+			ideology = liberalism
+			popularity = 0.2
+		}
+		add_popularity = {
+			ideology = conservatism
+			popularity = 0.2
+		}
+		add_popularity = {
+			ideology = social_democracy
+			popularity = 0.2
+		}
+		add_stability = -0.50
 	} 
 }
