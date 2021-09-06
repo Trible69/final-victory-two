@@ -1,16 +1,16 @@
 ﻿l_english:
  ###Events 
  UK_World_Building.1.t:0 "Britain's Starting Situation"
- UK_World_Building.1.d:0 "These last few decades have been a dark age for Great Britain.\n\nWith the recent military coup in 1918, Great Britain has been in constant instability, and it seems that it is all about to collapse, the Military Government has next to no real popularity and is only able to continue existing through brutal suppression, but they can't get every area, the likes of the King, George the Fifth, has been the only one keeping the peace between the Liberals and Monarchists, and the Government, but he, like all men, is not immortal, has been ill these past few months, it's only a matter of time for him to leave this world, and for Britain to be left to its own devices."
+ UK_World_Building.1.d:0 "These last few decades have been a dark age for Great Britain.\n\nWith the recent military coup in 1918, Great Britain has existed in constant instability, as her defeat in the last war and subsequent economic breakdown have driven the Empire to near collapse. The Military Government has next to no real popularity, only able to continue existing through an ongoing campaign of brutal political repression, which has greatly strained the Isles' diminishing resources. Only King George V prevents the fall of the fragile Liberal-Monarchist government, but due to recent illness, his ever-apparent mortality will one day destroy the already untenable status-quo. It's only a matter of time for His Majesty to leave this world, and for Britain to be left to its own devices."
  UK_World_Building.1.a:0 "God Save the King!"
 
  UK_Civil_War_Buildup.1.t:0 "Death of the King"
- UK_Civil_War_Buildup.1.d:0 "Perhaps the only thing that was holding the British State together is King George V. The unifier of Monarchists, Nationalists, and Republicans alike stabilized the country after the Long War and the military coup. This great man has died, peacefully in his sleep, surrounded by his family. As the civilians mourn his death, the government also mourns his death, albeit a different reason. Edward VIII has declared that he will lead the monarchist party, while Winston Churchill and Oswald Mosley both have declared a new era of the anti-nationalist coalition. The British Empire, which conquered continents, is at its knees. At its knees, not because of an enemy, but because of itself."
+ UK_Civil_War_Buildup.1.d:0 "Perhaps the only thing that was holding the British State together was King George V. The unifier of Monarchists, Nationalists, and Republicans alike stabilized the country after the past war and following military coup. Last night, His Majesty peacefully in his sleep while surrounded by his family. As the civilians mourn his death, the government mourns for its impending collapse. The heir apparent to the British throne, Edward VIII, has declared that he will lead the British to a new era of monarchy and nationalism, while both Winston Churchill and Oswald Mosley have formed an "Anti-Nationalist Coalition" to oppose him. The British Empire, the great realm which once encompassed whole continents, is at its knees. At its knees not because of an enemy, but because of itself."
  UK_Civil_War_Buildup.1.a:0 "No one can save Britain now."
  
  ###Ideas
  ENG_George_V:0 "King George V"
- ENG_George_V_desc:0 "The King is the only one keeping our enemies in check, we must let him live, for now."
+ ENG_George_V_desc:0 ""
  ENG_Unpopular_Military_Dictatorship:0 "Unpopular Military Dictatorship"
  ENG_Unpopular_Military_Dictatorship_desc:0 ""
  ENG_Paranoid_Government:0 "Paranoid Government"
@@ -18,13 +18,13 @@
  ###Parties
  ENG_parental_autocracy_party:0 "British National Party"
  ENG_national_populism_party:0 "British National Party"
- ENG_liberalism_party:0 "Anti-Nationalism Coalition"
- ENG_social_democracy_party:0 "Anti-Nationalism Coalition"
- ENG_conservatism_party:0 "Anti-Nationalism Coalition"
- ENG_authoritarianism_party:0 "Anti-Nationalism Coalition" 
- ENG_monarchism_party:0 "Anti-Nationalism Coalition"
- ENG_authoritarian_democracy_party:0 "Anti-Nationalism Coalition"
- ENG_authoritarian_socialism_party:0 "Anti-Nationalism Coalition"
- ENG_democratic_socialism_party:0 "Anti-Nationalism Coalition" 
+ ENG_liberalism_party:0 "Anti-Nationalist Coalition"
+ ENG_social_democracy_party:0 "Anti-Nationalist Coalition"
+ ENG_conservatism_party:0 "Anti-Nationalist Coalition"
+ ENG_authoritarianism_party:0 "Anti-Nationalist Coalition" 
+ ENG_monarchism_party:0 "Anti-Nationalist Coalition"
+ ENG_authoritarian_democracy_party:0 "Anti-Nationalist Coalition"
+ ENG_authoritarian_socialism_party:0 "Anti-Nationalist Coalition"
+ ENG_democratic_socialism_party:0 "Anti-Nationalist Coalition" 
  
  
