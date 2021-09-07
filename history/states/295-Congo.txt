@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = BEL
+		owner = FRA #temporary
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
