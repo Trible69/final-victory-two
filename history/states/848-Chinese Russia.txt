@@ -1,0 +1,19 @@
+state={
+	id=848
+	name="STATE_848"
+	history = {
+		owner = CHI
+		add_core_of = CHI
+		buildings = {
+			infrastructure = 5 
+			arms_factory = 2
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		1675 1749 1818 1825 1840 4224 4316 4391 4674 4768 4845 4923 5062 10610 10619 12370 12511 12529 12583 12662 12805 13147 13197 
+	}
+	manpower=4331931
+	buildings_max_level_factor=1.000
+	state_category = city 
+}
